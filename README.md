@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.com/zhenerenya/lab05.svg?branch=master)](https://travis-ci.com/zhenerenya/lab05)
+[![Build Status](https://travis-ci.com/zhenerenya/lab06.svg?branch=master)](https://travis-ci.com/zhenerenya/lab06)
